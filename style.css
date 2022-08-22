@@ -1,0 +1,23 @@
+body{
+    box-sizing: border-box;
+    justify-content: center;
+}
+div {
+   background-color: bisque;
+   border: solid brown 4px ; 
+   display: inline-block;
+   padding: 10px;
+   text-align: center;
+   margin: 10% 35%;
+
+};
+h1{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+};
+p{
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
